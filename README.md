@@ -39,9 +39,8 @@ If you find this research helpful and utilize it in your work, please consider c
 Frédéric Bousefsaf, Théo Desquins, Djamaleddine Djeldjli, Yassine Ouzar, Choubeila
 Maaoui, and Alain Pruski. Estimation of blood pressure waveform from facial video
 using a deep u-shaped network and the wavelet representation of imaging photoplethysmographic signals. Biomedical Signal Processing and Control, 78:103895,
-2022. ISSN 1746-8094. doi: https://doi.org/10.1016/j.bspc.2022.103895. URL
-https://www.sciencedirect.com/science/article/pii/S1746809422004050.
-
+2022. ISSN 1746-8094. DOI: https://doi.org/10.1016/j.bspc.2022.103895
+URL: https://www.sciencedirect.com/science/article/pii/S1746809422004050
 
 # Running the Blood Pressure Estimation Code
 

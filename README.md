@@ -27,7 +27,7 @@ Designed a deep U-shaped neural network to predict the continuous wavelet transf
 
 The proposed framework was rigorously evaluated using standards developed by the Association for the Advancement of Medical Instrumentation (AAMI) and the British Hypertension Society (BHS). The results demonstrated:
 
-- Close agreement with ground truth BP values.
+- Close agreement with ground truth BP values. it can be viewed here ![Bp Ground Truth and Predicted](images/signal_145.png)
 - Satisfaction of all standards for mean and diastolic BP estimation (grade A).
 - Fulfillment of nearly all standards for systolic BP estimation (grade B).
 
